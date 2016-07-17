@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	ara "github.com/diegogub/aranGO"
+	ara "gopkg.in/diegogub/aranGO.v2"
 )
 
 type DocTest struct {
