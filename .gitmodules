@@ -1,0 +1,21 @@
+[submodule "vendor/github.com/diegogub/napping"]
+	path = vendor/github.com/diegogub/napping
+	url = git://github.com/diegogub/napping
+[submodule "vendor/github.com/eapache/go-resiliency"]
+	path = vendor/github.com/eapache/go-resiliency
+	url = git://github.com/eapache/go-resiliency
+[submodule "vendor/github.com/solher/arangolite"]
+	path = vendor/github.com/solher/arangolite
+	url = git://github.com/solher/arangolite
+[submodule "vendor/gopkg.in/diegogub/aranGO.v2"]
+	path = vendor/gopkg.in/diegogub/aranGO.v2
+	url = https://gopkg.in/diegogub/aranGO.v2
+[submodule "vendor/gopkg.in/eapache/go-resiliency.v1"]
+	path = vendor/gopkg.in/eapache/go-resiliency.v1
+	url = https://gopkg.in/eapache/go-resiliency.v1
+[submodule "vendor/gopkg.in/h2non/gentleman-retry.v1"]
+	path = vendor/gopkg.in/h2non/gentleman-retry.v1
+	url = https://gopkg.in/h2non/gentleman-retry.v1
+[submodule "vendor/gopkg.in/h2non/gentleman.v1"]
+	path = vendor/gopkg.in/h2non/gentleman.v1
+	url = https://gopkg.in/h2non/gentleman.v1
